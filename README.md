@@ -1,5 +1,8 @@
 # BÀI THỰC HÀNH LAB 07
-
+## THÔNG TIN BÀI THỰC HÀNH LAB 08
+- Họ tên Sinh viên: [Võ Ngọc Trâm]
+- MSSV: [B2605312]
+- Lớp: [CT005-D03]
 ## Bài 1: Tiện ích Google Form
 - **Link Form a (Thông tin SV K52):** [https://forms.gle/yrUCEWvY2eatKxWh7]
 - **Link Form b (Đăng ký tham quan TMA - Tối đa 80 SV):** [https://forms.gle/Lq7h2J5YzBbDacxbA]#
